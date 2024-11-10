@@ -173,8 +173,10 @@ Reg no: 212223240144
 ```
 
 ## OUTPUT
-![Exp 4 web](https://github.com/user-attachments/assets/f310da42-5b02-458b-8464-3b6293288892)
+![exp 4 1](https://github.com/user-attachments/assets/1e658ea4-85b4-4ae2-9d30-70cde42683bd)
 
+
+![exp 4 2](https://github.com/user-attachments/assets/10b69386-bdfb-4c70-a827-942ec70efe46)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
